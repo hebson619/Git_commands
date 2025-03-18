@@ -31,3 +31,5 @@ creating new branch in github
 git branch <branchname>
 
 git switch <branchname>
+
+git pull
